@@ -1,7 +1,7 @@
 GRBL_STEP
 =========
 
-Dreiachs-Schrittmotorsteuerung für ATmega328 und Arduino-Bootloader, basierend auf GRBL, z.B. für preiswerten MINI-AT Arduino-Clone von MikroElectronica (www.mikroe.com). Erweitert um Impuls-Ausgang für Modellbau-Servo als X-Achse. Achtung: Homing-Funktion noch beta!
+Dreiachs-Schrittmotorsteuerung für ATmega328 und Arduino-Bootloader, basierend auf GRBL (https://github.com/grbl), z.B. für preiswerten MINI-AT Arduino-Clone von MikroElectronica (http://www.mikroe.com). Erweitert um Impuls-Ausgang für Modellbau-Servo als X-Achse. Achtung: Homing-Funktion noch beta!
 
 Flashen über Batch-File "avrdude_com9.bat" (hier für COM9, ggf. in der Datei anzupassen) oder Bash-Befehlszeile.
 
