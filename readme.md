@@ -31,3 +31,4 @@ auf DVD beilag (läuft mit kleinen Abstrichen auch auf Windows 7). Nähere Hinweis
 
 http://www.ct-lab.de/
 
+Obsoletes Projekt. Für neuere Aufbauten empfehlen wir unser Pojekt GRBL-Jogger (siehe Repository GRBL-JOG).
